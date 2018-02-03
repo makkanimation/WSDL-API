@@ -3,8 +3,8 @@
 			
             //$soapUrl = "http://watlowleads.com/wsdl_auth/server.php?wsdl"; // asmx URL of WSDL
             $soapUrl = "http://localhost/WSDL_API/server.php?wsdl"; // asmx URL of WSDL
-            $soapUser = "codezone45";  //  username
-            $soapPassword = "wsdl@123#"; // password
+            $soapUser = "test";  //  username
+            $soapPassword = "test"; // password
             // xml post structure
 
             $xml_post_string = '<?xml version="1.0" encoding="utf-8"?>
